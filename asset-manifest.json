@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NEO-NASA/static/css/main.e0ee740d.css",
+    "main.js": "/NEO-NASA/static/js/main.77c0b6b9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NEO-NASA/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Background.jpg": "/NEO-NASA/static/media/Background.194eee3423c9eb97e6bd.jpg",
+    "static/media/logo.svg": "/NEO-NASA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NEO-NASA/index.html",
+    "main.e0ee740d.css.map": "/NEO-NASA/static/css/main.e0ee740d.css.map",
+    "main.77c0b6b9.js.map": "/NEO-NASA/static/js/main.77c0b6b9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NEO-NASA/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ee740d.css",
+    "static/js/main.77c0b6b9.js"
+  ]
+}
