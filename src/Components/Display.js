@@ -57,7 +57,7 @@ export default function Display() {
             <h3>Enter Date</h3>
             <p>Supported Date Format YYYY-MM-DD </p>
             <p>e.g (2022-11-12)</p>
-            <input type="text" onChange={getDate} value={date} placeholder="Enter numaric values only" />
+            <input type="text" onChange={getDate} value={date} placeholder="Enter numeric values only" />
             <br/>
             <button type="button" onClick={dateSet}>Submit</button>
             <br/>
